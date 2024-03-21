@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+first file
+=======
+jvjjhdv
+>>>>>>> feature-branch
+Hello
+good orning
+
